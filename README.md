@@ -19,4 +19,4 @@
 
 附录及章节格式优化：对附录和章节的格式进行微调，提升整体排版一致性（章节格式根据内容差异做了小幅调整）。
 
-![Cover Page](fig/cover.png)
+![Cover Page](final_thesis/fig/cover.png)
