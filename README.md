@@ -1,4 +1,4 @@
-# FYP_FinalThesis_ForXJTLUSAT301
+# FYP_FinalThesis_LaTeX_Template_XJTLU_SAT301
 进一步改进模板，使latex模板更贴近现在（2024-2025）SAT301的word template.
 
 改进基于https://github.com/WishUAlwaysGoodTrip/FYP_FinalThesis_ForXJTLU
