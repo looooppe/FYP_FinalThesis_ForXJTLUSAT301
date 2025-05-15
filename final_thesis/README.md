@@ -1,20 +1,50 @@
-# A LaTeX Template For XJTLU EEE Students
+# Project Overview
 
-这是一个为西交利物浦大学电气系的学生们精心制作的LaTeX模板，可以用来写FYP Report， Master Final Project Report，PhD Thesis等。也可以用来写平时稍微长一些和正式一些的Report。
+This is an enhanced LaTeX template tailored for students of the School of Intelligent Engineering at Xi'an Jiaotong-Liverpool University to write their Final Year Project (FYP) reports.
 
-模板实用PDFLaTeX作为编译器，带有一些我自己改写的简化版指令，很容易上手，也是我自己日常使用的模板。
+## Editing and Compilation
 
-另外还根据一位老师提供的一个很简化的模板，结合我自己的模板特点制作了一个轻量级模板：
+* The template is edited online using [Overleaf](https://www.overleaf.com/).
+* PDFLaTeX is used as the compiler to produce the final PDF document.
 
-https://github.com/feimax/latex_template_for_xjtlu_eee_light
+## Usage Instructions
 
-同时我在定期更新我写的LaTeX教程，争取能用人话让你学得会LaTeX，请访问下面的地址：
+1. Download or clone this repository to your local machine.
+2. Log in to [Overleaf](https://www.overleaf.com/).
+3. Click **New Project** > **Upload Project**.
+4. Upload the entire project folder.
 
-http://blog.feieee.com/latex
+## Acknowledgements
 
-**Update 2017-11-27**
+We extend our gratitude to the contributors and improvers of the original templates:
 
-+ 封面内容由固定内容改完可以自由修改的方式
-+ 去掉了 xjtlu.sty 文件，不需要再使用 xjtlu Package，改由 eeereport.cls 文件来定义模板（和书写无关）
-+ 在 documenclass 定义中增加了多项设置：包括字体风格、是否为打印件（hardcopy）以及是否为编辑模式（深色背景浅色文字和logo的颜色）
-+ 增加了简单的程序代码添加方式
+* Original contribution by seniors: [feimax/latex\_template\_for\_xjtlu\_eee](https://github.com/feimax/latex_template_for_xjtlu_eee)
+* Subsequent enhancements by: [WishUAlwaysGoodTrip/FYP\_FinalThesis\_ForXJTLU](https://github.com/WishUAlwaysGoodTrip/FYP_FinalThesis_ForXJTLU)
+
+---
+
+# 项目简介
+
+这是一个为西交利物浦大学智能工程学院的学生们改进的 LaTeX 模板，用来撰写本科毕设（FYP）报告。
+
+## 编辑与编译
+
+* 模板使用 [Overleaf](https://www.overleaf.com/) 作为在线编辑器。
+* 使用 PDFLaTeX 作为编译器来生成最终的 PDF 文档。
+
+## 使用方法
+
+1. 下载或克隆本项目到本地。
+2. 登录 [Overleaf](https://www.overleaf.com/)。
+3. 点击 **New Project** > **Upload Project**。
+4. 上传本项目文件夹。
+
+## 感谢
+
+特别感谢以下项目的贡献和改进：
+
+* 原始贡献：[学长/学姐们 的贡献](https://github.com/feimax/latex_template_for_xjtlu_eee)
+* 后续改进：[WishUAlwaysGoodTrip 的改进](https://github.com/WishUAlwaysGoodTrip/FYP_FinalThesis_ForXJTLU)
+
+
+
