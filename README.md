@@ -1,6 +1,5 @@
 # FYP\_FinalThesis\_LaTeX\_Template\_XJTLU\_SAT301
 
-**English**
 Further enhance this LaTeX template to closely match the current (2024–2025) SAT301 Word template.
 --------------------------------------------------------------------------------------------------
 
